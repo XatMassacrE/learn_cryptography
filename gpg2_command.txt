@@ -1,0 +1,2 @@
+gpg2 --batch --yes --passphrase-file "key.txt" --output "output.txt" --decrypt
+"input.txt"
